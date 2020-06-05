@@ -25,7 +25,7 @@ begin
   end;
 end;
 
-procedure outpit(x: real);
+procedure output(x: real);
 begin
   if abs(x - 1) < 1 / 10000 then
     x := 1;
@@ -49,27 +49,28 @@ begin
     if ((a < b) and (h <= 0)) or ((a > b) and (h >= 0))
     then
     begin
-      outpit(x);
-      outpit(b);
+      output(x);
+      output(b);
       end
       else
       if h > 0 then
       begin
        while x < b - h / 10 do
        begin
-       outpit(x);
+       output(x);
        x := x + h;
       end;
-       outpit(b);
+       output(b);
     end
       else
       begin
         while x > b - h / 10 do
          begin
-         outpit(x);
+         output(x);
          x := x + h;
          end;
-        outpit(b);
-      end; readln;
+        output(b);
+      end; 
+readln;
 end.
 ```
