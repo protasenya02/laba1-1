@@ -1,6 +1,6 @@
 # **Задание 26**
 
-![alt text](screen.png "Условие задания")​
+![alt text](Screen.png "Условие задания")​
 
 
 ```Delphi
