@@ -1,6 +1,6 @@
 # **Задание 26**
 
-![alt text](screen.png "Описание будет тут")​
+![alt text](screen.png "Условие задания")​
 
 ```Delphi
 program laba1;
