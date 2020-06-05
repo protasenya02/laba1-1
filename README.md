@@ -1,5 +1,7 @@
 # **Задание 26**
 
+![alt text](screen.png "Описание будет тут")​
+
 ```Delphi
 program laba1;
 uses
