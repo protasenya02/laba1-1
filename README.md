@@ -2,7 +2,7 @@
 
 ![alt text](Screen.png "Условие задания")​
 
-
+> Delphi
 ```Delphi
 program laba1;
 uses
