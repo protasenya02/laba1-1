@@ -1,5 +1,7 @@
 # **Задание 26**
 
+The program calculates the value of the function from the initial value x (xn) to the final value (xk) with step dx
+
 > Delphi
 ```Delphi
 program laba1;
