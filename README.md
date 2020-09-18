@@ -1,6 +1,6 @@
 # **Задание 26**
 
-The program calculates the value of the function from the initial value x (xn) to the final value (xk) with step dx
+The program calculates the value of the function from the initial value x (a) to the final value (b) with step h
 
 > Delphi
 ```Delphi
